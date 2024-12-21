@@ -25,8 +25,7 @@ The project was created as an opportunity to learn and implement object-oriented
 - **Dynamic Obstacle Generation:** Obstacles such as ground barriers and aerial threats are randomly generated to keep the challenge fresh.
 - **Difficulty Scaling:** The game automatically adjusts its difficulty as your score increases, ensuring a challenging experience.
 - **Health System:** Players have three health points represented by visually dynamic health bars that update in real-time upon collision.
-- **Game Over Screen:** A detailed game-over screen displays the final score and resets the gameplay loop seamlessly.
-
+- **Game Over Screen:** A detailed game-over screen displays the final score and ends the game.
 ### 🎨 Visuals and Design
 
 - **Endless Scrolling Background:** The background scrolls infinitely, providing an immersive visual experience.
