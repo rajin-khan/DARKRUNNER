@@ -9,7 +9,8 @@
 
 <div align="center">
 
-**DARKRUNNER** is an exciting 2D platformer game built using Java Swing. The project was created as an opportunity to learn and implement object-oriented programming principles and graphical user interfaces.
+### **DARKRUNNER** is an exciting 2D platformer game built using Java Swing. 
+The project was created as an opportunity to learn and implement object-oriented programming principles and graphical user interfaces.
 
 ---
 
@@ -91,3 +92,5 @@ Other graphics and elements were custom-created by the development team.
 <div align="center">
   ✨ Thank you for checking out DARKRUNNER! ✨
 </div>
+
+A special thank you to [BROCODE](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ) for his amazing Java Swing GUI tutorials!
