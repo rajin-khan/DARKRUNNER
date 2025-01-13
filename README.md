@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/8NkKbWJ.png" width="300"/>
+  <img src="./main logo.png" width="300"/>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/X5RBiJH.png" width="200"/>
+  <img src="./main logo copy.png" width="200"/>
 </p>
 
 ---
